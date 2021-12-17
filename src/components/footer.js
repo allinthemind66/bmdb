@@ -10,7 +10,7 @@ export const Footer = () => {
                 <h3>DMdb</h3>
                 <br />
                 <p>Bringing you the best of the worst, and other cult movies!</p>
-                <p>From <a href="#">Cult Of Momus</a></p>
+                <p>From <a href="https://cult-of-momus.herokuapp.com/">Cult Of Momus</a></p>
             </div>
             <div className="footerContent">
                 <Row>

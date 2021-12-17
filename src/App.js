@@ -8,14 +8,14 @@ import { Footer } from './components/footer'
 
 function App() {
   return (
-    <>
+    <div className='SmallerPage'>
       <NavigationBar />
       <Container>
         <MoviesOfTheMonth />
         <HallOfShame />
       </Container>
       <Footer />
-    </>
+    </div>
 
   );
 }
