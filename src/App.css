@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.fit-picture {
+  width: 400px;
+  height: 600px;
+}
+
+.hallOfShame {
+  text-align: center;
+}
