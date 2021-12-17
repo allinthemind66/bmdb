@@ -14,6 +14,9 @@ export const NavigationBar = () => {
                 </Nav>
                 <SearchBar />
             </Container>
+            <Nav className="me-auto">
+                    <Nav.Link href="#home">Sign In</Nav.Link>
+                </Nav>
         </Navbar>
     </>)
 }
